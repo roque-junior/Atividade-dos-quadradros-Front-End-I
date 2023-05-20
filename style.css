@@ -1,0 +1,240 @@
+.azul {
+    background-color: blue;
+    padding: 100px;
+    width: 700px;
+    height: 700px;
+    padding-right: 250px;
+    padding-bottom: 250px;
+}
+
+.vermelha {
+    background-color: red;
+    padding: 200px;
+    width: 400px;
+    height: 400px;
+}
+
+.preta {
+    background-color: black;
+    padding: 100px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.verde {
+    background-color: green;
+    padding: 80px 20px;
+    width: 70px;
+    height: 70px;
+    padding-right: 110px;
+
+}
+
+.amarelo {
+    background-color: yellow;
+    padding: 40px 20px;
+    width: 40px;
+    margin-left: 40px;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.quadrado1 {
+    background-color: black;
+    padding: 100px;
+    height: 90px;
+    width: 100px;
+    margin: -10px;
+    position: absolute;
+}
+
+.quadrado2 {
+    background-color: black;
+    padding: 100px;
+    height: 100px;
+    width: 100px;
+    margin-right: -10px;
+    position: absolute;
+    right: 5px;
+    top: 50px;
+}
+
+.quadrado3 {
+    background-color: black;
+    padding: 100px;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 10px;
+    margin-left: -10px;
+    bottom: -80px;
+}
+
+.quadrado4 {
+    background-color: black;
+    padding: 100px;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 5px;
+    bottom: -80px;
+    margin-right: -10px;
+}
+
+.bf4 {
+    background-color: gray;
+}
+
+.erik {
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+    margin: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.gordo {
+    background-color: black;
+    color: white;
+    border-style:  solid;
+    border-color: brown;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    height: 250px;
+    width: 2500px;
+}
+
+#pai {
+   background-color: black;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+
+}
+
+#s1 {
+width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 110px;
+margin: 0px;
+}
+
+#s2 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 220px;
+margin: 0px;
+}
+
+#s3 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: -20px;
+margin: 20px;
+top: 90px;
+}
+
+#s4 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 90px;
+margin: 20px;
+top: 90px;
+}
+
+#s5 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: -20px;
+margin: 20px;
+top: 200px;
+}
+
+#s6 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 2425px;
+margin: 20px;
+top: 900px;
+}
+
+#s7 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 2235px;
+margin: 212px;
+top: 820px;
+right: 1000vh;
+}
+
+#s8 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 2125px;
+margin: 212px;
+top: 820px;
+right: 1000vh;
+}
+
+#s9 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 2235px;
+margin: 212px;
+top: 935px;
+right: 1000vh;
+}
+
+#s10 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 2125px;
+margin: 212px;
+top: 935px;
+right: 1000vh;
+}
+
+#s11 {
+    width: 100px;
+height: 100px;
+position: absolute;
+background-color: black;
+left: 2015px;
+margin: 212px;
+top: 935px;
+right: 1000vh;
+}
